@@ -1,0 +1,9 @@
+C:\projects\Bpp.CourseRegistration\Bpp.CourseRegistration\bin\Debug\netstandard2.0\Bpp.CourseRegistration.deps.json
+C:\projects\Bpp.CourseRegistration\Bpp.CourseRegistration\bin\Debug\netstandard2.0\Bpp.CourseRegistration.dll
+C:\projects\Bpp.CourseRegistration\Bpp.CourseRegistration\bin\Debug\netstandard2.0\Bpp.CourseRegistration.pdb
+C:\projects\Bpp.CourseRegistration\Bpp.CourseRegistration\obj\Debug\netstandard2.0\Bpp.CourseRegistration.csprojAssemblyReference.cache
+C:\projects\Bpp.CourseRegistration\Bpp.CourseRegistration\obj\Debug\netstandard2.0\Bpp.CourseRegistration.csproj.CoreCompileInputs.cache
+C:\projects\Bpp.CourseRegistration\Bpp.CourseRegistration\obj\Debug\netstandard2.0\Bpp.CourseRegistration.AssemblyInfoInputs.cache
+C:\projects\Bpp.CourseRegistration\Bpp.CourseRegistration\obj\Debug\netstandard2.0\Bpp.CourseRegistration.AssemblyInfo.cs
+C:\projects\Bpp.CourseRegistration\Bpp.CourseRegistration\obj\Debug\netstandard2.0\Bpp.CourseRegistration.dll
+C:\projects\Bpp.CourseRegistration\Bpp.CourseRegistration\obj\Debug\netstandard2.0\Bpp.CourseRegistration.pdb
